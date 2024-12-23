@@ -15,14 +15,13 @@ Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning d
 **- ✅ Data modeling and Data Visualization.**
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PERSONAL PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+**Revenue Hospital Data Analysis using the AtliQ Hospital Data set**
+![image](![1 Revenue AtliQ Hospital Data Analysis](https://github.com/user-attachments/assets/53d9b83e-0da1-4a72-8cb0-8f3374b39447)
+)
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
