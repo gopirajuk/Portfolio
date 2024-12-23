@@ -26,19 +26,15 @@ Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning d
 
 **Visualizing Super Store Data: Profit Analysis by Region, Segment, and Category.**
 
-![image](2 Superstore Data analysis.png…])
+![image](2 Superstore Data analysis.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+[Read More](https://www.linkedin.com/posts/gopi-raju-katteboina-410420222_visualizing-super-store-data-profit-analysis-activity-7076559267792629760-ldkW?utm_source=share&utm_medium=member_desktop)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+**HR Data Analytics Report using the Employees Data set.**
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+![image](3 HR Data analysis.png). 
 
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkedin.com/posts/gopi-raju-katteboina-410420222_hr-data-analytics-report-data-cleaning-activity-7076161964267229184-utjv?utm_source=share&utm_medium=member_desktop)
 
 
 ## CONTACT DETAILS
