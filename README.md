@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -11,6 +11,7 @@ Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning d
 *I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.*
 
 **- ✅ Data cleaning and Transformation.**
+
 **- ✅ Data modeling and Data Visualization.**
 
 <!--Section 2: List 3-4 key projects-->
@@ -62,7 +63,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Gopik_resume.docx">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
