@@ -13,6 +13,11 @@ Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning d
 **- ✅ Data cleaning and Transformation.**
 
 **- ✅ Data modeling and Data Visualization.**
+**- ✅ Visualization Tools: Looker Studio, Microsoft Power-Bi.**
+**- ✅ My SQL, DBMS concepts (Normalization, Transactions, Indexing).**
+**- ✅ Version Control Systems: Git, Azure**
+**- ✅ Frontend Technologies: HTML and CSS.**
+**- ✅ Others: ETL, Excel, Google sheets.**
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PERSONAL PROJECTS 
