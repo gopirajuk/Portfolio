@@ -22,7 +22,7 @@ Hello! I'm Gopi Raju Kattebina 🤓, a Data Analyst with a passion for turning d
 **Revenue Hospital Data Analysis using the AtliQ Hospital Data set**
 ![image](1 Revenue AtliQ Hospital Data Analysis.png)
 
-[Read More]([https://www.linkedin.com/posts/gopi-raju-katteboina-410420222_atliq-hospitality-dashboard-purpose-activity-7276831751803478016-3jMD?utm_source=share&utm_medium=member_desktop])
+[Read More](https://www.linkedin.com/posts/gopi-raju-katteboina-410420222_atliq-hospitality-dashboard-purpose-activity-7276831751803478016-3jMD?utm_source=share&utm_medium=member_desktop)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
